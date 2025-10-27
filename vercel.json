@@ -29,10 +29,5 @@
       "src": "/(.*)",
       "dest": "/index.html"
     }
-  ],
-  "functions": {
-    "api/index.py": {
-      "runtime": "python3.9"
-    }
-  }
+  ]
 }
